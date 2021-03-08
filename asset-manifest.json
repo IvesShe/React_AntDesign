@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/React_AntDesign/static/js/main.655e076d.chunk.js",
+    "main.js.map": "/React_AntDesign/static/js/main.655e076d.chunk.js.map",
+    "runtime-main.js": "/React_AntDesign/static/js/runtime-main.c61a18df.js",
+    "runtime-main.js.map": "/React_AntDesign/static/js/runtime-main.c61a18df.js.map",
+    "static/css/2.b6a2acfb.chunk.css": "/React_AntDesign/static/css/2.b6a2acfb.chunk.css",
+    "static/js/2.c55a73f2.chunk.js": "/React_AntDesign/static/js/2.c55a73f2.chunk.js",
+    "static/js/2.c55a73f2.chunk.js.map": "/React_AntDesign/static/js/2.c55a73f2.chunk.js.map",
+    "index.html": "/React_AntDesign/index.html",
+    "static/css/2.b6a2acfb.chunk.css.map": "/React_AntDesign/static/css/2.b6a2acfb.chunk.css.map",
+    "static/js/2.c55a73f2.chunk.js.LICENSE.txt": "/React_AntDesign/static/js/2.c55a73f2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c61a18df.js",
+    "static/css/2.b6a2acfb.chunk.css",
+    "static/js/2.c55a73f2.chunk.js",
+    "static/js/main.655e076d.chunk.js"
+  ]
+}
