@@ -8,9 +8,9 @@ https://ant.design/components/overview-cn/
 
 # Github展示
 
-https://ivesshe.github.io/React_Router/
+https://ivesshe.github.io/React_AntDesign/
 
-![image](./images/20210307160815.png)
+![image](./images/20210308143852.png)
 
 # 創建項目
 
@@ -262,3 +262,8 @@ npm install -D sass-loader@7.x
 # 執行畫面
 
 ![image](./images/20210308113653.png)
+
+# Github上傳
+可以參考之前的文檔
+
+https://github.com/IvesShe/React_TodoList
